@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Enter 2 numbers"
+echo "Enter two numbers"
 read num1 
 read num2
 
