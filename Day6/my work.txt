@@ -18,7 +18,7 @@ Each of the three permissions are assigned to three defined categories of users.
 As a task, change the user permissions of the file and note the changes after ls -ltr
 
 2. Write an article about File Permissions based on your understanding from the notes.
-=>Already wrote a blog on this.
+=>Already wrote a blog on this : https://coolsrj.hashnode.dev/linux-explored-in-depth-user-group-and-permissions
 
 3. Read about ACL and try out the commands getfacl and setfacl
 =>Read about it will publish a blog on day 7
