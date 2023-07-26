@@ -1,8 +1,7 @@
 #!/bin/bash
 
 echo "Reason for updating"
-read $reason
+read reason
 git add .
-val=$(date)
-git commit -m "Commiting my file $val, $reason"
+git commit -m "Commiting my file $reason"
 git push origin master
